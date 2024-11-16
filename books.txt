@@ -1,0 +1,11 @@
+Arrival,Shaun Tan,919
+Capital in the Twenty-First Century,Arthur Goldhammer,23
+Cinderella,Marcia Brown,299
+Conscious Parent,Shefali Tsabary,19
+Dragons Love Tacos,Adam Rubin,990
+ESV Study Bible,Frank Thielman,902
+Fight Club,Chuck Palahniuk,238
+Making Comics,Scott McCloud,1213
+The Emperor of All Maladies,Siddhartha Mukherjee,20
+We Are Okay,Nina Lacour,123
+Wonder,R. J. Palacio,220
